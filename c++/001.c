@@ -2,7 +2,7 @@
 
 int main(void) {
     // Exibe a mensagem "Deus é mais" seguida de uma nova linha na tela
-    printf("Deus é mais\n");
+    printf("olá, mundo!\n");
     
     return 0;  // Retorna 0 para indicar que o programa terminou com sucesso
 }
