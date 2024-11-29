@@ -19,4 +19,4 @@ int main(void){
     if(aprovados >= 8){
         printf("bonus para o instrutor\n");
     } return(0);
-}
+} 
